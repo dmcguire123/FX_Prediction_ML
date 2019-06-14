@@ -1,5 +1,13 @@
 # FX_Prediction_ML
-Adapting a previous stock prediction software to help predict FX price changes with deep learning using TensorFlow
+
+Having traded the FX market based off of simple momentum, and support strategies, I decided it was time I started to build a decent model to assist in my trading.
+After reading many research papers, and reading through hundreds of different efforts, I decided that I would begin by adapting a stock prediction model. 
+Doing so, I would hope to gain more understanding of deep learning principles, the advantages and disadvantages of a machine learning algorithm, and the pit falls that such an algorithm can fall into.
+
+Plan is to adapt a previous stock prediction software to help predict FX price changes with deep learning using TensorFlow
+
+
+
 
 Building upon a stock prediction model has led to a number of complications and the code needs further refinement.
 

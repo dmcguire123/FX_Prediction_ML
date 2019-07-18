@@ -16,5 +16,5 @@ Also R may be more suitable/ easier than Python....
 
 
 **Lots of issues, still very much a work in progress.
-**Need to rework A LOT of code to adapt for a FX prediction model, and work on TensorFlow a lot more
+**Need to rework A LOT of code to adapt for a FX prediction model, and work on TensorFlow a lot more!
 
